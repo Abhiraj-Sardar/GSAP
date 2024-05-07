@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.page1{
+    height:100vh;
+    width:100vw;
+    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(52, 106, 221);
+}
+
+.page1 #box1{
+    height:300px;
+    width:300px;
+    background-color: red;
+}
+.page2{
+    height:100vh;
+    width:100vw;
+    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(125, 157, 228);
+}
+
+body{
+    overflow-x: hidden;
+}
+.page3{
+    /* height:100vh; */
+    width:100vw;
+    display: block;
+
+    background-color: rgb(52, 106, 221);
+}
+
+.page3 h1{
+    font-size: 520px;
+    /* transform: translateX(-1000px); */
+}
