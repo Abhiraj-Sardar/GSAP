@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.page1{
+    background-color: crimson;
+    height: 100vh;
+    width:100%;
+    /* transform: translateX(1900px); */
+}
